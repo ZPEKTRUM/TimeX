@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: 8c7b65b00e93cba4996c945534e63195
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedQueenBorg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1102
+        width: 108
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2c2bee7c931b449b6c82e947625c6
+      internalID: -858628506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1102
+        width: 108
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78143b615c3494db372e005a9bd52d
+      internalID: -1336071522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1102
+        width: 110
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9bb5cdc52129448303d4ce8763c9f
+      internalID: 1355422496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1102
+        width: 113
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa963b737748334791616ee31132e31
+      internalID: -1147464706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1102
+        width: 115
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06c5d111080089439dc00a759067d30
+      internalID: -94006095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1102
+        width: 115
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76764e7933c256a4dadaaa523dc71afc
+      internalID: 1493776594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1102
+        width: 117
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429eb4294b1e12540a69c22174b35e8f
+      internalID: -1928443641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_7
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1102
+        width: 119
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee8814f5ee42c545a6effa2dc475c97
+      internalID: 1132144156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_8
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1102
+        width: 127
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9e1079dc15c8c4090b725c3b1efe27
+      internalID: 1282564457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_9
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1101
+        width: 132
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c5533b07827f4c81d0f8c2acbb54d
+      internalID: 489836370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_10
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1102
+        width: 131
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f24fe75031da4cba56d6f554b9887
+      internalID: -445214933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_11
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1102
+        width: 123
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d9acabab04a0b44b8822a410e3c4fb
+      internalID: -1981648436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_12
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1102
+        width: 113
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad9bba60a2698d4ba5a688f90144f73
+      internalID: 1392189902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_13
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1102
+        width: 108
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df239cf1344e5479153a8bf6600c65
+      internalID: -167225067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_14
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1102
+        width: 109
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec2bfe1f773184f9858502f1449613
+      internalID: 1802346425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_15
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1102
+        width: 100
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e12c395f23e16d4fbe7a187b1406d91
+      internalID: -853034544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_16
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1102
+        width: 92
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffacfcf17ed33c049b1a7638d084eb80
+      internalID: -107099500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_17
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 1102
+        width: 91
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577f322cdbdecc849af8eb16af501acd
+      internalID: -154961909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_18
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 1102
+        width: 97
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2db2003e31d21489fdb6f62d548b43
+      internalID: 2103049710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_19
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1102
+        width: 99
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125d4dd689f5fd84b9b592e28c07b8f8
+      internalID: -2073211414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_20
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1102
+        width: 98
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83b9cd3f5fbb7439baa9b3003e500c
+      internalID: 1326103600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_21
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1102
+        width: 94
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9260533086ffc7b428b36199b9a13038
+      internalID: 520172036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1051
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705025566c722dc4e948c53c35c101af
+      internalID: 1018185704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 90
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40537e33e6f6aa4aba63c558795273c
+      internalID: 839608279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 686
+        width: 86
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248d8db35c5ba864b88c41673473e56b
+      internalID: -147302021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 686
+        width: 85
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d1e5bd105f4d47a7647da353cc0a4
+      internalID: -1666453824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 686
+        width: 88
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c61995bbae234db21a5db4e9aee2a
+      internalID: 1947928548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 686
+        width: 98
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e882c08c744d5441bbd3ad6b8d350c5
+      internalID: -839377091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 686
+        width: 110
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac92379400a4e846b5a13f15683e8d3
+      internalID: -1083294236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_29
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 686
+        width: 131
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdae8c5eea9903469780884e3eab081
+      internalID: 1942359768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_30
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 686
+        width: 172
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd6c9a4a55bae4db9b22d2bad25aa8
+      internalID: 807101752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_31
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 687
+        width: 168
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4358b687dda6064b9bd9412b61212ba
+      internalID: 1274890223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_32
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 685
+        width: 196
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d74838de7d055b4c851ffaed9c7ad37
+      internalID: 1803722549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_33
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 684
+        width: 166
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a11858a34a59c40bad2179b516a2e2
+      internalID: 89797148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_34
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 685
+        width: 165
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b4defae189ddf499c97308947193f6
+      internalID: -942575050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_35
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 685
+        width: 201
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245e8b37693c2904f9031b53ce9cb7fb
+      internalID: -976853109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_36
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 685
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa99422ee4ae474c8c8eebc4877250c
+      internalID: 1942028086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_37
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 685
+        width: 167
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9dd39b397ec514bb5933c5c8e230af
+      internalID: -2048753464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_38
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 685
+        width: 147
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ec4f0635554546acfe81ec71e5e65
+      internalID: 1706289090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_39
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 685
+        width: 144
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ec31bfa146654c9d391d325365b1a
+      internalID: 523346025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 366
+        width: 134
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87d8f7fd1649049b6dcbf811814f37
+      internalID: 2145894285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 367
+        width: 132
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e717da04bc4db08419d83d34fc2acbbb
+      internalID: -1116920521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_42
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 367
+        width: 129
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a404b5001847941afd00204e632e92
+      internalID: 1548097079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 365
+        width: 124
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120aa43c738e47c44884c2d02a22e0c6
+      internalID: 585059452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_44
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 366
+        width: 123
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d477efd05f735c439de03f47a2bdc78
+      internalID: 1870087855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_45
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 366
+        width: 119
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13535d45063adb74a91c7c7c522bef03
+      internalID: -1283880670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_46
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 364
+        width: 115
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cd2c682d77a284f852856ed49c3ecf
+      internalID: -1217981102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_47
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 366
+        width: 115
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f49142d0f344740a8c5d8301e7b882
+      internalID: 449099339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_48
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 366
+        width: 136
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724292c69bd50148bd73676fd543b1b
+      internalID: 354004782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_49
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 365
+        width: 156
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e07ef29b02a164eb88b0815c6ecc8d
+      internalID: -1326086191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_50
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 366
+        width: 169
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdf40836d6c2cc46ab7d107fca37ae8
+      internalID: -1712398705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_51
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 367
+        width: 167
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ff061ad6b06a34f8c5ae6202c78082
+      internalID: 1684242173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_52
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 362
+        width: 161
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478bbf36bc23a84fa20194acf4e3de5
+      internalID: 806027339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_53
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 361
+        width: 153
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ff0110852a4b44af96efee9d983c1
+      internalID: -2092725872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_54
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 365
+        width: 145
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06e3f0d9c54d14280c831ddd86b6d0
+      internalID: 878583210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_55
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 366
+        width: 137
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816409fa79dc461409b7acdc9fbad6a0
+      internalID: 1014531374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 129
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46be37161f782cb418e76a84568fdae1
+      internalID: 1214265925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 122
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208fdbfde86fd594995e87a93164cb2d
+      internalID: 126778858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_58
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 116
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f70e133c7efe4bb7a526c642dc21e
+      internalID: -449296689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_59
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 112
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e16e7bad54df549833028591aa77fc
+      internalID: -293746659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_60
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 112
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aabd1a1b3e98947aaadf9a68bc979c
+      internalID: 1081043022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_61
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1
+        width: 112
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5555cfe1e5a6754d9009edcd00a1380
+      internalID: 81942188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_62
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1
+        width: 111
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5436389bc7f9f5428cdf32b9e074f28
+      internalID: -359981465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_63
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1
+        width: 112
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41303dbe43248fc4b84758dd6f06fc76
+      internalID: 1088088009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_64
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1
+        width: 111
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854f5ba164459d34eb3f59f28330e6b5
+      internalID: 13711744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_65
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 0
+        width: 111
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c366ac70964ce4eb7aade267f968e8
+      internalID: -1071484931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQueenBorg_66
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1021
+        width: 101
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e3736229778642a7a87d752c18f44
+      internalID: -1003483491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedQueenBorg_0: -858628506
+      RedQueenBorg_1: -1336071522
+      RedQueenBorg_10: -445214933
+      RedQueenBorg_11: -1981648436
+      RedQueenBorg_12: 1392189902
+      RedQueenBorg_13: -167225067
+      RedQueenBorg_14: 1802346425
+      RedQueenBorg_15: -853034544
+      RedQueenBorg_16: -107099500
+      RedQueenBorg_17: -154961909
+      RedQueenBorg_18: 2103049710
+      RedQueenBorg_19: -2073211414
+      RedQueenBorg_2: 1355422496
+      RedQueenBorg_20: 1326103600
+      RedQueenBorg_21: 520172036
+      RedQueenBorg_22: 1018185704
+      RedQueenBorg_23: 839608279
+      RedQueenBorg_24: -147302021
+      RedQueenBorg_25: -1666453824
+      RedQueenBorg_26: 1947928548
+      RedQueenBorg_27: -839377091
+      RedQueenBorg_28: -1083294236
+      RedQueenBorg_29: 1942359768
+      RedQueenBorg_3: -1147464706
+      RedQueenBorg_30: 807101752
+      RedQueenBorg_31: 1274890223
+      RedQueenBorg_32: 1803722549
+      RedQueenBorg_33: 89797148
+      RedQueenBorg_34: -942575050
+      RedQueenBorg_35: -976853109
+      RedQueenBorg_36: 1942028086
+      RedQueenBorg_37: -2048753464
+      RedQueenBorg_38: 1706289090
+      RedQueenBorg_39: 523346025
+      RedQueenBorg_4: -94006095
+      RedQueenBorg_40: 2145894285
+      RedQueenBorg_41: -1116920521
+      RedQueenBorg_42: 1548097079
+      RedQueenBorg_43: 585059452
+      RedQueenBorg_44: 1870087855
+      RedQueenBorg_45: -1283880670
+      RedQueenBorg_46: -1217981102
+      RedQueenBorg_47: 449099339
+      RedQueenBorg_48: 354004782
+      RedQueenBorg_49: -1326086191
+      RedQueenBorg_5: 1493776594
+      RedQueenBorg_50: -1712398705
+      RedQueenBorg_51: 1684242173
+      RedQueenBorg_52: 806027339
+      RedQueenBorg_53: -2092725872
+      RedQueenBorg_54: 878583210
+      RedQueenBorg_55: 1014531374
+      RedQueenBorg_56: 1214265925
+      RedQueenBorg_57: 126778858
+      RedQueenBorg_58: -449296689
+      RedQueenBorg_59: -293746659
+      RedQueenBorg_6: -1928443641
+      RedQueenBorg_60: 1081043022
+      RedQueenBorg_61: 81942188
+      RedQueenBorg_62: -359981465
+      RedQueenBorg_63: 1088088009
+      RedQueenBorg_64: 13711744
+      RedQueenBorg_65: -1071484931
+      RedQueenBorg_66: -1003483491
+      RedQueenBorg_7: 1132144156
+      RedQueenBorg_8: 1282564457
+      RedQueenBorg_9: 489836370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

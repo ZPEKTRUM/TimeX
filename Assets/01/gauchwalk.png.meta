@@ -1,0 +1,1891 @@
+fileFormatVersion: 2
+guid: 109cfadf74cd02e408f375a76b47e0ec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gauchwalk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 131
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8bb769d0686b4d8d5b80a7ab9f9c8
+      internalID: 1747278764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1121
+        width: 123
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d48b0cc2bfd674093a97ff158ab2ac
+      internalID: 1045098204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1122
+        width: 113
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3dd32aba7e99469ea30257d6125d4
+      internalID: -1705591994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1121
+        width: 101
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdac12261bd4c3d4d8757427c1d91b30
+      internalID: -125434237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1122
+        width: 88
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a707456005d9d474b88dadc4f117d23a
+      internalID: 1495577378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_5
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1122
+        width: 83
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acdd6e89cdc5c14badfdd18795a1900
+      internalID: -549917254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1122
+        width: 82
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725e13c8ce1fc6f43822e3fec193780f
+      internalID: -191528556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_7
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1122
+        width: 80
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fb9c969acf46e47a551c5eb7d57fa6
+      internalID: -221858716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_8
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1121
+        width: 78
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d79d1e6596626469fbe70ff44b6259
+      internalID: -2082814085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_9
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1120
+        width: 72
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99122e3c0a44fe44fa32f6b19169fb07
+      internalID: -1662203857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_10
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1120
+        width: 65
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9c904200b48344b44f63b12d3a3af
+      internalID: -1848345845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1119
+        width: 65
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e724a3cdaf8a4ea3a2dd1dafd0952
+      internalID: -1385283764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_12
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1120
+        width: 66
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43945b66561b7f04a9a448f19f02e0d5
+      internalID: 1890823826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_13
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1121
+        width: 67
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3838767154b5a1042932db913916617c
+      internalID: 1953957339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_14
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1120
+        width: 68
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c61c637333244aaaeaa8655795369
+      internalID: -1162260102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_15
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1121
+        width: 70
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16631b62767a12f479cae8096f18e2c7
+      internalID: -11639961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_16
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1121
+        width: 71
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d9811ad52ba524ba1847d3ff6eec45
+      internalID: -282649274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_17
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1121
+        width: 72
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d89a3ee19ff0e24fa172d80a83e6f68
+      internalID: 360276137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_18
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1121
+        width: 72
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca8de79d852ed24db40473e61c93809
+      internalID: 1532971835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_19
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 1121
+        width: 73
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039c051581b08b44ca59f24574e3b572
+      internalID: 1568051155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_20
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1121
+        width: 73
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a1485320851c44a55770e39091188
+      internalID: 1335371336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_21
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1121
+        width: 75
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c9fa42ae33e74439ce25633f8213c8
+      internalID: -1866664158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_22
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1121
+        width: 75
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97f239f5a2e8b54183c4daeb3829563
+      internalID: -729543054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_23
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 1121
+        width: 77
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e0167f9491fca4d8fcd9a64927a46f
+      internalID: 1343047360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_24
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1120
+        width: 77
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81049ed9f940684dbbd71487d83b452
+      internalID: -1176698540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_25
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1120
+        width: 78
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3579b4171d12c3469cf96e32da2627f
+      internalID: -1057589273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_26
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1121
+        width: 79
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7da2f09cfe8664e9a94a933dcf5a61
+      internalID: -260614625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_27
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1121
+        width: 79
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48b2e6d448f8224e9d8d1641166aba5
+      internalID: 1895461375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_28
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 1121
+        width: 79
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c9b9cb77561bb49b7e852a0f8a9580
+      internalID: -1943418780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_29
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1120
+        width: 79
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8d2de50f3708348a10abfc45795850
+      internalID: 637641364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_30
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1120
+        width: 79
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ccb9c9181d6eb4dbbb9f0992341af9
+      internalID: -1269899054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_31
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 1120
+        width: 79
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e768be8e9772b43affe6467e0ae745
+      internalID: -1870393072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 753
+        width: 90
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de605244875fe4c4b99696f85eb8a6fc
+      internalID: -119958261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_33
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 748
+        width: 86
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fbdc1ccccbd774987af1673f421e06
+      internalID: 1751387149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 748
+        width: 82
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa338f95490935d49aa977ffc1507824
+      internalID: -1883147482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 753
+        width: 93
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0836a2eb600906498c074251746291c
+      internalID: -622216890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 753
+        width: 105
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83edce58c9b56446b31e99548a2f7a5
+      internalID: 1422644429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_37
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 748
+        width: 118
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f973911660dc7c4dae84ace8f65ed82
+      internalID: 183527482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_38
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 748
+        width: 131
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e1de3c0817cd347a9f881c459a80e0
+      internalID: 1714831979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_39
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 749
+        width: 142
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be405994a8791c4e9d2223bb7af740c
+      internalID: -2078008478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_40
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 753
+        width: 150
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3219b9f6ee0ad48418656c2022d5f8e3
+      internalID: -722474586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_41
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 748
+        width: 156
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5454d797784ae0d418af141d6165816a
+      internalID: 887223701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_42
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 749
+        width: 160
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee6c41cec055f846980dce2aabe301d
+      internalID: 1234867437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_43
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 749
+        width: 163
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ce1712544e91e4daf3e696c10f186d
+      internalID: 603152812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_44
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 749
+        width: 164
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3176f941835b974a8cbbaa083d48d6a
+      internalID: 1671844993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_45
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 750
+        width: 162
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b70320116447941af001467a09a0ff
+      internalID: 1684074192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_46
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 750
+        width: 157
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8a89d8012e69044b71ba0074e099c2
+      internalID: 1953980593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_47
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 754
+        width: 149
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885d7acda3fc2ea4f9e0adaa345c16f4
+      internalID: -916582286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_48
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 754
+        width: 141
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea08d0aaa3c7b488a68661326ccc88
+      internalID: -722322259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 360
+        width: 150
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2792f6403d8a24fa6a9c71a9a3c2f1
+      internalID: -982455576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 359
+        width: 161
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24386e109b2c00041b98204c1993f0a8
+      internalID: -984595025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_51
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 359
+        width: 166
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd50afe067c21d42b6c5f5fa11bc476
+      internalID: 1774580727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_52
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 359
+        width: 170
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185adb7a32ad4f244859238fc0175515
+      internalID: 5383590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_53
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 355
+        width: 173
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e976a6e41ca6d8247a3f534818c3ebef
+      internalID: 1776169613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_54
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 360
+        width: 174
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7048eb2a4939a14498a4bb44deb6a71a
+      internalID: 1095069551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_55
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 359
+        width: 179
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c1a79bcf34fa64cbee8e176ea57f5d
+      internalID: 830752887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_56
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 361
+        width: 177
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f8ca0a76ff32d4581db37d5ea03901
+      internalID: 107104931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_57
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 361
+        width: 176
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e20136f52b7404cb71ff34c2a66308
+      internalID: -1970486034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_58
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 361
+        width: 167
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0ef972a744a3046af837c2c4f03a3c
+      internalID: -12253343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_59
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 361
+        width: 152
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47a6e3787fc3c45852a66adddfe744
+      internalID: -1285182061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_60
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 360
+        width: 134
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68024656e5e2c264580d998e6cc8674b
+      internalID: 217127575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_61
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 360
+        width: 113
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0785f0de3028a4da7750fd487ddc7f
+      internalID: -1722364153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_62
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 360
+        width: 93
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af7af85bc21c44885011c6a1971586
+      internalID: -1425709232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 174
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22c1d36262ab8545959f26aa58c22b6
+      internalID: 790481675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_64
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1
+        width: 176
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8f102eafbaa8548a6ed864e3f84fc6
+      internalID: 1313516481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_65
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1
+        width: 169
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489762db41cfb1c468242c528d7d8b5b
+      internalID: 864804790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_66
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 5
+        width: 157
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645e1613de155f94aa980fe6245367b0
+      internalID: -311290741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_67
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 9
+        width: 142
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e32d1e9152ba234388a90f5853f0581
+      internalID: 341590338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_68
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 5
+        width: 126
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89da3dffbb5cd47998927d0b045561
+      internalID: 1308597815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_69
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 4
+        width: 109
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d65fa857ad19fc47b4857a5df4e49d2
+      internalID: 755349138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_70
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 0
+        width: 92
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee34e3540e0ec5244a4ae4a7ec77f9c8
+      internalID: -1760495396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_71
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 0
+        width: 83
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ce6b2d6a301c1408d9df644781d0b0
+      internalID: 1326463679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_72
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 0
+        width: 84
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a30157056eb7624180238d8b6450d4f
+      internalID: 90506544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_73
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 0
+        width: 83
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7adb7bf4327424e92c750bffdf798f
+      internalID: 1959600627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_74
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 0
+        width: 86
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262d375cce51ed8479610b3367c7e410
+      internalID: -1384253437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_75
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1
+        width: 93
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610a9cbfc606f934e8d4e0b72fa5fc11
+      internalID: 91668102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_76
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 1
+        width: 108
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704dc8a497663b74782dc6a44b4af2b4
+      internalID: 1841653421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_77
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 0
+        width: 123
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db98fa4cd72ef4b98b499292e045f5
+      internalID: 520870260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gauchwalk_78
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 0
+        width: 136
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b074611fe3036974d9172ccf21240b4f
+      internalID: 1641472242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gauchwalk_0: 1747278764
+      gauchwalk_1: 1045098204
+      gauchwalk_10: -1848345845
+      gauchwalk_11: -1385283764
+      gauchwalk_12: 1890823826
+      gauchwalk_13: 1953957339
+      gauchwalk_14: -1162260102
+      gauchwalk_15: -11639961
+      gauchwalk_16: -282649274
+      gauchwalk_17: 360276137
+      gauchwalk_18: 1532971835
+      gauchwalk_19: 1568051155
+      gauchwalk_2: -1705591994
+      gauchwalk_20: 1335371336
+      gauchwalk_21: -1866664158
+      gauchwalk_22: -729543054
+      gauchwalk_23: 1343047360
+      gauchwalk_24: -1176698540
+      gauchwalk_25: -1057589273
+      gauchwalk_26: -260614625
+      gauchwalk_27: 1895461375
+      gauchwalk_28: -1943418780
+      gauchwalk_29: 637641364
+      gauchwalk_3: -125434237
+      gauchwalk_30: -1269899054
+      gauchwalk_31: -1870393072
+      gauchwalk_32: -119958261
+      gauchwalk_33: 1751387149
+      gauchwalk_34: -1883147482
+      gauchwalk_35: -622216890
+      gauchwalk_36: 1422644429
+      gauchwalk_37: 183527482
+      gauchwalk_38: 1714831979
+      gauchwalk_39: -2078008478
+      gauchwalk_4: 1495577378
+      gauchwalk_40: -722474586
+      gauchwalk_41: 887223701
+      gauchwalk_42: 1234867437
+      gauchwalk_43: 603152812
+      gauchwalk_44: 1671844993
+      gauchwalk_45: 1684074192
+      gauchwalk_46: 1953980593
+      gauchwalk_47: -916582286
+      gauchwalk_48: -722322259
+      gauchwalk_49: -982455576
+      gauchwalk_5: -549917254
+      gauchwalk_50: -984595025
+      gauchwalk_51: 1774580727
+      gauchwalk_52: 5383590
+      gauchwalk_53: 1776169613
+      gauchwalk_54: 1095069551
+      gauchwalk_55: 830752887
+      gauchwalk_56: 107104931
+      gauchwalk_57: -1970486034
+      gauchwalk_58: -12253343
+      gauchwalk_59: -1285182061
+      gauchwalk_6: -191528556
+      gauchwalk_60: 217127575
+      gauchwalk_61: -1722364153
+      gauchwalk_62: -1425709232
+      gauchwalk_63: 790481675
+      gauchwalk_64: 1313516481
+      gauchwalk_65: 864804790
+      gauchwalk_66: -311290741
+      gauchwalk_67: 341590338
+      gauchwalk_68: 1308597815
+      gauchwalk_69: 755349138
+      gauchwalk_7: -221858716
+      gauchwalk_70: -1760495396
+      gauchwalk_71: 1326463679
+      gauchwalk_72: 90506544
+      gauchwalk_73: 1959600627
+      gauchwalk_74: -1384253437
+      gauchwalk_75: 91668102
+      gauchwalk_76: 1841653421
+      gauchwalk_77: 520870260
+      gauchwalk_78: 1641472242
+      gauchwalk_8: -2082814085
+      gauchwalk_9: -1662203857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

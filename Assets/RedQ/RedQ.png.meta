@@ -1,0 +1,3431 @@
+fileFormatVersion: 2
+guid: 3993163f90c099c4fa97a3c9faf5f65a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedQ_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1469
+        width: 270
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee62e15a68a57e4989262c0fafa87e0
+      internalID: -1051067601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1452
+        width: 92
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c066a5e3ad112534f8fa324d087efb9c
+      internalID: 1386186765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1452
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74b1810eb19f440ac9d5e9b9b17f02
+      internalID: -2076932657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1463
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d909aadac3f1f49a4d51db1297ff0a
+      internalID: 320339056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1466
+        width: 263
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c06e8930e8fa14ea4ecc4ad1a37013
+      internalID: 274716954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1452
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8dbf401457b5c46a24d2205987c099
+      internalID: 1342169400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1461
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d90698666a21f45a1891173f7153f1
+      internalID: 1890969748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1452
+        width: 81
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a37facde2c48a4eaf684a19bf4a975
+      internalID: -892260911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1452
+        width: 269
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81109ece48035314ba07b689218b07b0
+      internalID: -767517335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1468
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008c30102cc61314c9574e0790b1c209
+      internalID: -1949784441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1452
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddafbbc13c2e984fbe5503c926bea84
+      internalID: -501812588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1452
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07188db2d4d847443ae181c61cf47d11
+      internalID: -1410456717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_12
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1452
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d003b2b7124733e4abc3453dcc7ad954
+      internalID: -1310268826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1452
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41483664fa5d34448b9f894725af3785
+      internalID: -1625605511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1452
+        width: 269
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff416b722c30904aaf327d960c2bb1c
+      internalID: -1208057220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_15
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1452
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1a3fa987b835744a083545a3453526
+      internalID: -446466265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_16
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1457
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dcc6280936f264aabc084443febe54
+      internalID: 1711042112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_17
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1452
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fee666b119f934c91c6e64890180ff
+      internalID: -224030635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_18
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1452
+        width: 261
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dc968e0c115d14aa73e982293f29e8
+      internalID: -960842694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_19
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1452
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ba5bd2c566788499102da0a6f4c4d8
+      internalID: -1753690405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_20
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1463
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91caec8428606e349964f556ba70a06f
+      internalID: -2040055247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_21
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1452
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e82d628c44b14e9a1e5ac1af8b73a
+      internalID: -244625456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_22
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1458
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d5bad001d3e0469e421857623bcfd
+      internalID: 612358336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_23
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1452
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c002151696ed6c449aa2181e39f4ffb
+      internalID: 178102696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_24
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1452
+        width: 271
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac8dd0b76188994282abce4cf6314a3
+      internalID: -202065722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_25
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1452
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0562c59f757f26e4d99e1255ef34431e
+      internalID: 412337712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_26
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1452
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca5aed96b4c42340b6d5b9f6223115e
+      internalID: -707066398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_27
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1456
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a999a7a398c6694f9ed5c47ce5be41d
+      internalID: 1218490756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_28
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1452
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375006d138d79b04b9e60ba0ae7794ae
+      internalID: 1808766137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_29
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1452
+        width: 266
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc69a0cfcacc941b174ae4727ab5de
+      internalID: -1149882551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_30
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1463
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed436ca775a30204a99dbd19b808f961
+      internalID: -783257328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_31
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1452
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f014234ecf9e2847ae932199cc755c8
+      internalID: -429461209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_32
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1458
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54263e3d73d1f434b9b98bb7a1fdd81e
+      internalID: 624146043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_33
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1452
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f3a9fe4a62f54baa3650801918336
+      internalID: 1805870282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_34
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1452
+        width: 251
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e619c54f371847b1d68a8d794835a
+      internalID: 924802115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_35
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1452
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769c3b10f330fe444a4246c1b53c11ed
+      internalID: 2077936779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_36
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1463
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592602fc6f8af6f4a9ab2a90e572d183
+      internalID: 1136263667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_37
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1452
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef99bee7751114185a19f4a2cea654
+      internalID: 2094287654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_38
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1458
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9cf54cadc2e649adc2a2175441754
+      internalID: -857528945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_39
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1452
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe04011851ed604d80cc2713e7cdf68
+      internalID: 931303003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_40
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1452
+        width: 258
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744349bc530b44749bc41a9b735e6189
+      internalID: -772620652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_41
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1452
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099b04f635136c342b39f86274cd9e13
+      internalID: 1590203094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_42
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1452
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02ebd78ea6a27347ad04b033a4ad7b8
+      internalID: 1982293296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_43
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1458
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59500d7d1feea0b4d9a6ab447f9392f2
+      internalID: 1123849902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_44
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1452
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c55659b8022ff46b26e7289cf45082
+      internalID: -572475251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_45
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1452
+        width: 258
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c654a93fd72e984f84993992a7fc10c
+      internalID: 796373705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_46
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1452
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd061add75b8784fac17fe9cc5b70ca
+      internalID: 645700147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1069
+        width: 262
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ecc36ce369cb0448630eabb86c2cb0
+      internalID: -261204305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1059
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72e13852e400d3438d6455d708f940c
+      internalID: 1039530316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_49
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1069
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66ebedc612ed541b34937a21cb9012
+      internalID: 2093515068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_50
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1068
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6756439b69e44ab28a3a26f384d34
+      internalID: -1003917749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1085
+        width: 258
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fb7fabc77a9434a89055b0f7d1cf86
+      internalID: -1364326806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_52
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1068
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af246c8beb5bff478f670192ea2eef9
+      internalID: 2022788131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1068
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8200a14d5e37459ff61531c93bc88
+      internalID: 2096109192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_54
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1068
+        width: 122
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf11c1a787337640916518301a8b073
+      internalID: 51027144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_55
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1068
+        width: 262
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887bf960a896a334fa6e11d3fe0be67d
+      internalID: 714198078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_56
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1068
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42419091f2cdf124aad940d89cadbab4
+      internalID: -521078056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_57
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1068
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b488678da6062e45a6161e41bf698b3
+      internalID: -1243601062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_58
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1068
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b159a0eb5f9e8649a28c0751b4f1b2e
+      internalID: -821555495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_59
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1078
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2fb5761b36d9e4ea0b5ea1499baadc
+      internalID: 1955012025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_60
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1068
+        width: 261
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6312e97b54cff55459750be5704f6641
+      internalID: -1253760603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_61
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1068
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be40a119dc59e4db562e7a05cd7924
+      internalID: -645629034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_62
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1072
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a920aace79c740a8c33119884dbd9
+      internalID: -1809478112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_63
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1068
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2c026119a493247a140e8d482b7b20
+      internalID: -505950195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_64
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1074
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c091273b7f59d64eaff970ca5c25337
+      internalID: -1594418179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_65
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1068
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fadaed1f89d79b4f8af3b6741866f55
+      internalID: 1750358168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_66
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1068
+        width: 256
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea8c40b9d4194f479a7aca22f0e2dcf
+      internalID: -899133776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_67
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1068
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9361e1fa3b77042abb84093b7bfa93
+      internalID: -354720326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_68
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1068
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4df8452d5de7748bb25af1dde407af
+      internalID: -45895683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_69
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1074
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76653d815aa6a2246b25d9e8eaf61f6c
+      internalID: 2052273886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_70
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1068
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bdf6666ec32a444a8df3ff5288fec2
+      internalID: 1411303131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_71
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1068
+        width: 259
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a5292ac6ed48409192c1f30cb3993
+      internalID: -1236394237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_72
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1068
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60b705cd23d8b4fabdd94ed54426e1
+      internalID: 2140328005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_73
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1068
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4630ce79d851f04aa648d95bdaeda41
+      internalID: -1003157889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_74
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1074
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15c09d35d8c02947811cf9826149606
+      internalID: 1154185550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_75
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1068
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e2fc1e68115c344a44b4cd409e7e81
+      internalID: -1197913054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_76
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1068
+        width: 254
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a859d9bb600df9846981eda7d637bbcc
+      internalID: -1641331881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_77
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1068
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b64491c9f1a874fbf704c19330a88e
+      internalID: 214389547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_78
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1081
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c839dc0bc1a28345ae33aa6958cfc8e
+      internalID: 137331451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_79
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1068
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4646e8ca617bd54499887cc77f307f08
+      internalID: -183279152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_80
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1074
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fad453633f5b4469bfc38acb9dd3d5
+      internalID: -849564743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_81
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 1068
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12efb8a9afe66dc40a1f06bb3bd9f555
+      internalID: -1523363204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_82
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1068
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83be8706b6c4e479211a89fd84ee93
+      internalID: -181661370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_83
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1068
+        width: 255
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c400b932d8818945a36fb17582082f4
+      internalID: 1258752620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_84
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1068
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cf5323afeb4ff4e9c9abc1ad4cf52e
+      internalID: 740561403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_85
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1068
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b8fd1d43c8b334c81caaeb5eb7cf84
+      internalID: -1760156445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_86
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1078
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f99c2f0f1b2a540a1335e8dca92fdc
+      internalID: 122939862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_87
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1078
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206a3e3925429844bb306b4e2020b76
+      internalID: -273913622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_88
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1068
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4616a05613cf14fa6328b56dd026ab
+      internalID: 1934487928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_89
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1068
+        width: 253
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97948978d6b10424aa72605f8936b41e
+      internalID: 1534394370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_90
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1068
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0856bff85b072cc4fa5746f59fdf45dd
+      internalID: 182984959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_91
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1068
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991d34511a80b34f88786f8ff84caed
+      internalID: -1434784213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_92
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 1073
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691650a9f79dcd4d8aae5ca0afb5ca7
+      internalID: -575749291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_93
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1068
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0783fbd030028944a996233f23100f7
+      internalID: -1738497031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_94
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1068
+        width: 253
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a774be26e38810645846ccc1693c8394
+      internalID: -1179093165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_95
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1068
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3ec8acdb6d13e418afa404e2798487
+      internalID: -1728753278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_96
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1068
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06142fd9594c4bd499256b74525b631c
+      internalID: 422637293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_97
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1074
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27761cccc7e767340ab0eda68e87d927
+      internalID: -1172148754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_98
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 1068
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52c74b2871d1ea40b3d8fbfb17dcdbe
+      internalID: -995143937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 684
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87cfd11e5ccad43ba27bfb671ebfc4
+      internalID: -1804158162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_100
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 684
+        width: 250
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01322227d93558844a8fad1ec36fdcd0
+      internalID: 1895717589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_101
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 684
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b885b5b8c795d48a444155b2a50f16
+      internalID: -1824790900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_102
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 690
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c5303a7a6699846a86f047fbcde4e2
+      internalID: -614186852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_103
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 684
+        width: 252
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ad95208aa22574c80c9baf5397b98e
+      internalID: 1969389374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_104
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 684
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d8da3ceb65db54d9843098b817f89a
+      internalID: -883500313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_105
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 684
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b25111effc2e242946e7bc1686d269
+      internalID: 1273579446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_106
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 690
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9867163ca8a4b5a4e86ee6526d6b626d
+      internalID: -284041329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_107
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 684
+        width: 252
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a91bae496f739a4c91a432f26291d0a
+      internalID: -418844282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_108
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 684
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af199d7a7e955f94dbb04e8cd2497f62
+      internalID: 230242897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_109
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 701
+        width: 251
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ee56c4b2143f4a8c9ea6da8979696
+      internalID: 169343620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_110
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 688
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994ecc555083d9241a6fb47aed9f21fb
+      internalID: -706479309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_111
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 692
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c6521d8fc28dd448414d8bdb2e7c41
+      internalID: 652437722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_112
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 684
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fe0f941c764ec4a90d2b5e26dddcc9
+      internalID: 1787990086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_113
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 684
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c93f40e9512db4ca68282f854d8ef5
+      internalID: 1029686445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_114
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 691
+        width: 252
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943a4f52c2ccf16439bd645aa59c594d
+      internalID: -864425212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_115
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 698
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f456782fda0b4eb8f9377d0faebee
+      internalID: 1968151124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_116
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 684
+        width: 253
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d221efb06e38e51448cfe5f5239392a8
+      internalID: -385937783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_117
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 684
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04de14e7303c4c74e94ae98e3785f78d
+      internalID: -652506666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_118
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 684
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b4f8fe2ebe3e0498d5d1b17f7c191a
+      internalID: 504540926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_119
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 690
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ebd0f940ae8da43a509d5a7b2b7de4
+      internalID: 559370871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_120
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 684
+        width: 251
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbbc54407e8d0c47a996f7105dc15a7
+      internalID: 289863790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_121
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 684
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3268c7506ea4f0429a7816994da6cbb
+      internalID: 1524167748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_122
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 684
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143b169bd78c330458ab375147e4ade1
+      internalID: 675307525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_123
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 689
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac27537f7d8a3d47874a708b46b301d
+      internalID: 1117452590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_124
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 684
+        width: 249
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40b232e61f037b4e88a80a2432d2e16
+      internalID: -510646597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_125
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 684
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff71e53103e59ef4097a29680c226d0c
+      internalID: 930349643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_126
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 684
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534c87054fb5a540b065664ad673333
+      internalID: -1016876952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_127
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 690
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e461c21d166984c4da14b8ae87da4884
+      internalID: 1033786294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_128
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 701
+        width: 239
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c337e355463810e4e99a582ac696fea4
+      internalID: -900717134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_129
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 684
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa2cb6ec1883c24ca25ad1916dfbbff
+      internalID: 1072470571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_130
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 684
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4cb4496f0be3429a996c9d226d0a2
+      internalID: -503039513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_131
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 684
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d3a488c7512943b4e89fb67d22010
+      internalID: -1713921538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_132
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 684
+        width: 160
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fada5d9973edb04992ad063baf19bd7
+      internalID: -1207685809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_133
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 691
+        width: 303
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6518f15a9c2c84a8e5e935016bdca7
+      internalID: 1033667469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_134
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 684
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a9352400ef2a34f8aca49bfa8ac570
+      internalID: -994534902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_135
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 684
+        width: 42
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92a01f20c09814b821f372b64c2a41
+      internalID: -2118530260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_136
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 694
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d297d3178674b74491b92019ffa7046
+      internalID: -2012521009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_137
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 694
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629cf6acceb18ef46b686c20ed986d61
+      internalID: -1537114526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_138
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 689
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6790e23a89c75d48bb30edb5c58071a
+      internalID: -2060168564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_139
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 684
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba9e2a2de175a45ae38e062bd926c4
+      internalID: 431391587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_140
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 684
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566df9ad561ceac4984654fefcdd1f75
+      internalID: -1473946090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_141
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 684
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04b15922b6f0f1418933ae82cee0702
+      internalID: 1448035716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_142
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 684
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a8a0911d30944f88985512d9f2a7f
+      internalID: 2072869354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_143
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 684
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbbc1a60a4c3ee4fbc239536bc31153
+      internalID: -1730180828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_144
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 684
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcc8e19eb33f18499850cefd460d6b7
+      internalID: 2054071523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_145
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 684
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcef9452d47a5b4d8eb79dbd7260d2f
+      internalID: 562072167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_146
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5f8c4d490d76245a252a5ffb9f8d19
+      internalID: 589675462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_147
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 8
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d273bc3060eef7b47a0a5548d7f9f67b
+      internalID: -1088010711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedQ_148
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 0
+        width: 74
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650d962f55375bd4aa34658936d4483d
+      internalID: -1313208702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedQ_0: -1051067601
+      RedQ_1: 1386186765
+      RedQ_10: -501812588
+      RedQ_100: 1895717589
+      RedQ_101: -1824790900
+      RedQ_102: -614186852
+      RedQ_103: 1969389374
+      RedQ_104: -883500313
+      RedQ_105: 1273579446
+      RedQ_106: -284041329
+      RedQ_107: -418844282
+      RedQ_108: 230242897
+      RedQ_109: 169343620
+      RedQ_11: -1410456717
+      RedQ_110: -706479309
+      RedQ_111: 652437722
+      RedQ_112: 1787990086
+      RedQ_113: 1029686445
+      RedQ_114: -864425212
+      RedQ_115: 1968151124
+      RedQ_116: -385937783
+      RedQ_117: -652506666
+      RedQ_118: 504540926
+      RedQ_119: 559370871
+      RedQ_12: -1310268826
+      RedQ_120: 289863790
+      RedQ_121: 1524167748
+      RedQ_122: 675307525
+      RedQ_123: 1117452590
+      RedQ_124: -510646597
+      RedQ_125: 930349643
+      RedQ_126: -1016876952
+      RedQ_127: 1033786294
+      RedQ_128: -900717134
+      RedQ_129: 1072470571
+      RedQ_13: -1625605511
+      RedQ_130: -503039513
+      RedQ_131: -1713921538
+      RedQ_132: -1207685809
+      RedQ_133: 1033667469
+      RedQ_134: -994534902
+      RedQ_135: -2118530260
+      RedQ_136: -2012521009
+      RedQ_137: -1537114526
+      RedQ_138: -2060168564
+      RedQ_139: 431391587
+      RedQ_14: -1208057220
+      RedQ_140: -1473946090
+      RedQ_141: 1448035716
+      RedQ_142: 2072869354
+      RedQ_143: -1730180828
+      RedQ_144: 2054071523
+      RedQ_145: 562072167
+      RedQ_146: 589675462
+      RedQ_147: -1088010711
+      RedQ_148: -1313208702
+      RedQ_15: -446466265
+      RedQ_16: 1711042112
+      RedQ_17: -224030635
+      RedQ_18: -960842694
+      RedQ_19: -1753690405
+      RedQ_2: -2076932657
+      RedQ_20: -2040055247
+      RedQ_21: -244625456
+      RedQ_22: 612358336
+      RedQ_23: 178102696
+      RedQ_24: -202065722
+      RedQ_25: 412337712
+      RedQ_26: -707066398
+      RedQ_27: 1218490756
+      RedQ_28: 1808766137
+      RedQ_29: -1149882551
+      RedQ_3: 320339056
+      RedQ_30: -783257328
+      RedQ_31: -429461209
+      RedQ_32: 624146043
+      RedQ_33: 1805870282
+      RedQ_34: 924802115
+      RedQ_35: 2077936779
+      RedQ_36: 1136263667
+      RedQ_37: 2094287654
+      RedQ_38: -857528945
+      RedQ_39: 931303003
+      RedQ_4: 274716954
+      RedQ_40: -772620652
+      RedQ_41: 1590203094
+      RedQ_42: 1982293296
+      RedQ_43: 1123849902
+      RedQ_44: -572475251
+      RedQ_45: 796373705
+      RedQ_46: 645700147
+      RedQ_47: -261204305
+      RedQ_48: 1039530316
+      RedQ_49: 2093515068
+      RedQ_5: 1342169400
+      RedQ_50: -1003917749
+      RedQ_51: -1364326806
+      RedQ_52: 2022788131
+      RedQ_53: 2096109192
+      RedQ_54: 51027144
+      RedQ_55: 714198078
+      RedQ_56: -521078056
+      RedQ_57: -1243601062
+      RedQ_58: -821555495
+      RedQ_59: 1955012025
+      RedQ_6: 1890969748
+      RedQ_60: -1253760603
+      RedQ_61: -645629034
+      RedQ_62: -1809478112
+      RedQ_63: -505950195
+      RedQ_64: -1594418179
+      RedQ_65: 1750358168
+      RedQ_66: -899133776
+      RedQ_67: -354720326
+      RedQ_68: -45895683
+      RedQ_69: 2052273886
+      RedQ_7: -892260911
+      RedQ_70: 1411303131
+      RedQ_71: -1236394237
+      RedQ_72: 2140328005
+      RedQ_73: -1003157889
+      RedQ_74: 1154185550
+      RedQ_75: -1197913054
+      RedQ_76: -1641331881
+      RedQ_77: 214389547
+      RedQ_78: 137331451
+      RedQ_79: -183279152
+      RedQ_8: -767517335
+      RedQ_80: -849564743
+      RedQ_81: -1523363204
+      RedQ_82: -181661370
+      RedQ_83: 1258752620
+      RedQ_84: 740561403
+      RedQ_85: -1760156445
+      RedQ_86: 122939862
+      RedQ_87: -273913622
+      RedQ_88: 1934487928
+      RedQ_89: 1534394370
+      RedQ_9: -1949784441
+      RedQ_90: 182984959
+      RedQ_91: -1434784213
+      RedQ_92: -575749291
+      RedQ_93: -1738497031
+      RedQ_94: -1179093165
+      RedQ_95: -1728753278
+      RedQ_96: 422637293
+      RedQ_97: -1172148754
+      RedQ_98: -995143937
+      RedQ_99: -1804158162
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Pills
+  - Candy
+  - FxTemporaire
+  - Cible
+  - PowerPill
+  - Ghost
+  - Enemy
+  - Key
   layers:
   - Default
   - TransparentFX
@@ -13,13 +21,13 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Pills
+  - Candy
+  - Cible
+  - PowerPill
+  - Ghost
+  - Key
+  - Enemy
   - 
   - 
   - 
